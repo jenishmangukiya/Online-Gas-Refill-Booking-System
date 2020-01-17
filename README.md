@@ -1,4 +1,4 @@
-# Online-Gas-Refill-Booking-System
+# Online Gas Refill Booking System
 
 Technologies:
   HTML, CSS, Bootstrap, JavaScript, JQuery, Ajax, PHP and MySQL
