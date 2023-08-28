@@ -644,7 +644,7 @@ $(document).ready(function (e) {
             <div class="row">
                 <div class="col-md-6">
                     <h2>Get in touch</h2>
-					<form action="mailto:kd.lukhi99@gmail.com" method="post" enctype="text/plain">
+					<form action="mailto:testmail@gmail.com" method="post" enctype="text/plain">
 						<div class="form-group">
 							<input id="name" type="text" class="form-control" name="name" placeholder="Name" required>
 						</div>
